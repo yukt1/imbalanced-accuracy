@@ -24,14 +24,6 @@ The baseline has the highest accuracy and the highest cost. Cost assumes a misse
 4. Precision-recall curve and average precision, compared against the event rate
 5. Choosing a decision threshold from the cost of each type of error, tuned on validation and reported once on test
 
-## Run it
-
-```bash
-pip install -r requirements.txt
-jupyter notebook why_95_percent_accuracy_can_be_useless.ipynb
-```
-
-Or open it in Google Colab: upload the `.ipynb` file at [colab.research.google.com](https://colab.research.google.com).
 
 ## Data and assumptions
 
